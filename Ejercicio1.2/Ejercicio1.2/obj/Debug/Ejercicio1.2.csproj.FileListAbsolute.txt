@@ -1,0 +1,7 @@
+C:\Users\MSI LEOPARD\Desktop\python\github\Ejercicio-1-sesion-3-semana-2\Ejercicio1.2\Ejercicio1.2\bin\Debug\Ejercicio1.2.exe.config
+C:\Users\MSI LEOPARD\Desktop\python\github\Ejercicio-1-sesion-3-semana-2\Ejercicio1.2\Ejercicio1.2\bin\Debug\Ejercicio1.2.exe
+C:\Users\MSI LEOPARD\Desktop\python\github\Ejercicio-1-sesion-3-semana-2\Ejercicio1.2\Ejercicio1.2\bin\Debug\Ejercicio1.2.pdb
+C:\Users\MSI LEOPARD\Desktop\python\github\Ejercicio-1-sesion-3-semana-2\Ejercicio1.2\Ejercicio1.2\obj\Debug\Ejercicio1.2.csproj.AssemblyReference.cache
+C:\Users\MSI LEOPARD\Desktop\python\github\Ejercicio-1-sesion-3-semana-2\Ejercicio1.2\Ejercicio1.2\obj\Debug\Ejercicio1.2.csproj.CoreCompileInputs.cache
+C:\Users\MSI LEOPARD\Desktop\python\github\Ejercicio-1-sesion-3-semana-2\Ejercicio1.2\Ejercicio1.2\obj\Debug\Ejercicio1.2.exe
+C:\Users\MSI LEOPARD\Desktop\python\github\Ejercicio-1-sesion-3-semana-2\Ejercicio1.2\Ejercicio1.2\obj\Debug\Ejercicio1.2.pdb

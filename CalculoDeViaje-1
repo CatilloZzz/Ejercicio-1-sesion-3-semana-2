@@ -1,0 +1,24 @@
+using System;
+
+class ProgramaGira
+{
+    static void Main()
+    {
+        try
+        {
+            Console.Write("Ingrese el costo total de la gira (C$): ");
+            double costoTotal = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Ingrese el número de participantes: ");
+            int participantes = Convert.ToInt32(Console.ReadLine());
+
+            double costoPorPersona = costoTotal / participantes;
+
+            Console.WriteLine($"Cada participante debe pagar: C${costoPorPersona}");
+        }
+        catch (DivideByZeroException)
+        {
+            Console.WriteLine("No hay participantes confirmados. Actualice la lista antes de calcular.");
+        }
+    }
+}
